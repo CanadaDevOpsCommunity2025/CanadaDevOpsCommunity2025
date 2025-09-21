@@ -26,7 +26,7 @@ Whether you're a seasoned pro or just starting out, these series of events is pe
 Teams competed to build innovative Gen AI solutions for DevOps.  
 **Congratulations to the winning team behind [AICommunityofPractice_Observability](https://github.com/CanadaDevOpsCommunity2025/AICommunityofPractice_Observability)!**  
 Their project featured real-time dashboards, intelligent alerting, and open-source contributions.
-Curious to know what we did together: https://github.com/users/CanadaDevOpsCommunity2025/projects/5/views/1
+Curious to know what we did together: [DevOps for Gen AI Hackathon Ottawa](https://github.com/users/CanadaDevOpsCommunity2025/projects/5/views/1)
 
 ### Upcoming Hackathon
 
@@ -37,6 +37,8 @@ This event is a unique opportunity for innovators, developers, and AI/DevOps ent
  ✅ Collaborate on real-world use cases
  ✅ Explore how GenAI can transform DevOps practices
  ✅ Network with Canada’s DevOps Community of Practice, legendary John Willis and many more
+
+**📩 Highlighting sponsors:** Pragra ( Title Sponsor ), Techstrong Group ( Media Sponsor), Amazon Web Services (AWS) Cloud Community
 
 Stay tuned for more details on registration, agenda, and event updates—watch this repo and follow us on Linkedin!
 
@@ -65,7 +67,7 @@ For sponsorship inquiries, please contact us at: **info@capitalcarbonconsulting.
 
 ## 🔗 Stay Connected and Get the Latest Updates
 
-- **LinkedIn Page:** [Canada DevOps Community of Practice](https://www.linkedin.com/company/canada-devops-community-of-practice/)
+**LinkedIn Page:** [Canada DevOps Community of Practice](https://www.linkedin.com/company/canada-devops-community-of-practice/)
 
 ---
 
