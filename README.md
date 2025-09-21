@@ -38,7 +38,7 @@ This event is a unique opportunity for innovators, developers, and AI/DevOps ent
  ✅ Explore how GenAI can transform DevOps practices
  ✅ Network with Canada’s DevOps Community of Practice, legendary John Willis and many more
 
-Stay tuned for more details on registration, agenda, and event updates—watch this repo and join our [Slack](#)!
+Stay tuned for more details on registration, agenda, and event updates—watch this repo and follow us on Linkedin!
 
 ---
 
