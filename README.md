@@ -44,7 +44,7 @@ Stay tuned for more details on registration, agenda, and event updates—watch t
 
 ## 🚀 Get Involved
  
-- **Reserve your seat today:** [https://lnkd.in/gTC24_5P](https://lnkd.in/gTC24_5P)
+- **Reserve your seat today for the upcoming Hackthon:** [https://lnkd.in/gTC24_5P](https://lnkd.in/gTC24_5P)
 - **Attend Events:** Watch this repo for announcements.
 - **Contribute:** Share your ideas, open issues, and submit PRs
 
