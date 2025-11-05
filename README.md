@@ -32,6 +32,7 @@ Curious to know what we did together: [DevOps for Gen AI Hackathon Ottawa](https
 **DevOps for Gen AI Hackathon – Toronto**  
 📅 November 3, 2025
 **Congratulations to the winning teams**
+
 Winner :  https://github.com/CanadaDevOpsCommunity2025/Vulnerability-Resolution-Agent
 
 Runner up:https://github.com/CanadaDevOpsCommunity2025/ParagonAI-The-Null-Pointers
