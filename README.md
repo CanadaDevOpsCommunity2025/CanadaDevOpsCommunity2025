@@ -28,18 +28,29 @@ Teams competed to build innovative Gen AI solutions for DevOps.
 Their project featured real-time dashboards, intelligent alerting, and open-source contributions.
 Curious to know what we did together: [DevOps for Gen AI Hackathon Ottawa](https://github.com/users/CanadaDevOpsCommunity2025/projects/5/views/1)
 
-### Upcoming Hackathon
 
 **DevOps for Gen AI Hackathon – Toronto**  
 📅 November 3, 2025
-
-This event is a unique opportunity for innovators, developers, and AI/DevOps enthusiasts to:
- ✅ Collaborate on real-world use cases
- ✅ Explore how GenAI can transform DevOps practices
- ✅ Network with Canada’s DevOps Community of Practice, legendary John Willis and many more
+**Congratulations to the winning teams**
+Winner :  https://github.com/CanadaDevOpsCommunity2025/Vulnerability-Resolution-Agent
+Runner up:https://github.com/CanadaDevOpsCommunity2025/ParagonAI-The-Null-Pointers
+Impactful: https://github.com/CanadaDevOpsCommunity2025/HemoStat
+Innovative:  https://github.com/CanadaDevOpsCommunity2025/AI-Observability-Monitoring-Speech-Recognition-Orange-Honey-Mustar 
 
 **📩 Highlighting sponsors:** Pragra ( Title Sponsor ), Techstrong Group ( Media Sponsor), Amazon Web Services (AWS) Cloud Community
 
+### Upcoming Hackathon
+**DevOps for Gen AI Hackathon – Ottawa**
+📅 June, 2026
+**DevOps for Gen AI Hackathon – Calgary** 
+📅 August, 2026
+**DevOps for Gen AI Hackathon – Toronto** 
+📅 November, 2026
+
+These event is a unique opportunity for innovators, developers, and AI/DevOps enthusiasts to:
+ ✅ Collaborate on real-world use cases
+ ✅ Explore how GenAI can transform DevOps practices
+ ✅ Network with Canada’s DevOps Community of Practice, legendary John Willis and many more
 Stay tuned for more details on registration, agenda, and event updates—watch this repo and follow us on Linkedin!
 
 ---
