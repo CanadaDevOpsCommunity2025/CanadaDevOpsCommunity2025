@@ -33,8 +33,11 @@ Curious to know what we did together: [DevOps for Gen AI Hackathon Ottawa](https
 📅 November 3, 2025
 **Congratulations to the winning teams**
 Winner :  https://github.com/CanadaDevOpsCommunity2025/Vulnerability-Resolution-Agent
+
 Runner up:https://github.com/CanadaDevOpsCommunity2025/ParagonAI-The-Null-Pointers
+
 Impactful: https://github.com/CanadaDevOpsCommunity2025/HemoStat
+
 Innovative:  https://github.com/CanadaDevOpsCommunity2025/AI-Observability-Monitoring-Speech-Recognition-Orange-Honey-Mustar 
 
 **📩 Highlighting sponsors:** Pragra ( Title Sponsor ), Techstrong Group ( Media Sponsor), Amazon Web Services (AWS) Cloud Community
