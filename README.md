@@ -14,7 +14,7 @@ We’re more than a group—we’re a movement! Our mission is to accelerate lea
 
 ## 🏅 DevOps for Gen AI Hackathon Series
 
-The goal of this DevOps for GenAI 'Hackathon' is for DevOps and Platform Engineering professionals to learn what problems their peers are facing when trying to use and deploy Generative AI solutions, and to collaborate together to come up with ideas, best practices and even open source solutions that they can use in their own environment. Examples of problems include keeping training data and models secure, enabling data and model deployment within the constraints of corporate data governance, preventing or reducing the effects of hallucinations, and developing new tools and techniques to face these new challenges.
+The goal of this DevOps for GenAI 'Hackathon' is for DevOps,AI and Platform Engineering professionals to learn what problems their peers are facing when trying to use and deploy Generative AI solutions, and to collaborate together to come up with ideas, best practices and even open source solutions that they can use in their own environment. Examples of problems include keeping training data and models secure, enabling data and model deployment within the constraints of corporate data governance, preventing or reducing the effects of hallucinations, and developing new tools and techniques to face these new challenges.
 
 Whether you're a seasoned pro or just starting out, these series of events is perfect for anyone interested in learning how to optimize their AI projects through DevOps. Network with like-minded individuals, attend workshops, and gain valuable insights into the world of AI development. Don't miss out on this opportunity to level up your skills and connect with fellow GenAI enthusiasts!
 
