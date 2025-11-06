@@ -1,7 +1,7 @@
 
-# Canada DevOps Community of Practice 🚀
+# DevOps + AI  Community of Practice 🚀
 
-Welcome to the official home of the **Canada DevOps Community of Practice**!  
+Welcome to the official home of the **DevOps + AI Community of Practice**!  
 We’re an energetic, national network of technologists, builders, and innovators shaping the future of DevOps and AI in Canada.
 
 ---
