@@ -61,7 +61,7 @@ Stay tuned for more details on registration, agenda, and event updates—watch t
 
 ## 🚀 Get Involved
  
-- **Reserve your seat today for the upcoming Hackthon:** https://www.eventbrite.com/e/devops-for-genai-hackathon-ottawa-2026-tickets-1966971784557?aff=oddtdtcreator
+- **Reserve your seat today for the upcoming Hackthon:** 
 - **Attend Events:** Watch this repo for announcements.
 - **Contribute:** Share your ideas, open issues, and submit PRs
 
