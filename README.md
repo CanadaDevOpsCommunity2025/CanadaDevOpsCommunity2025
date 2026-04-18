@@ -44,9 +44,8 @@ Innovative:  https://github.com/CanadaDevOpsCommunity2025/AI-Observability-Monit
 **📩 Highlighting sponsors:** Pragra ( Title Sponsor ), Techstrong Group ( Media Sponsor), Amazon Web Services (AWS) Cloud Community
 
 ### Upcoming Hackathon
-**DevOps for Gen AI Hackathon – Ottawa**
-📅 June, 2026
-**DevOps for Gen AI Hackathon – Calgary** 
+
+**DevOps for Gen AI Hackathon – Ottawa** 
 📅 August, 2026
 **DevOps for Gen AI Hackathon – Toronto** 
 📅 November, 2026
